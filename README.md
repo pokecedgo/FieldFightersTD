@@ -20,4 +20,4 @@ https://www.roblox.com/games/95003268456654/Field-Fighters
 
 
 
-<img width="624" height="624" alt="2C823AA0-383D-4E58-BE6E-D62982AC21B9-Photoroom" src="https://github.com/user-attachments/assets/45b5fc48-1505-4ae0-ac2f-8c99e2b1dcda" />
+<img width="324" height="324" alt="2C823AA0-383D-4E58-BE6E-D62982AC21B9-Photoroom" src="https://github.com/user-attachments/assets/45b5fc48-1505-4ae0-ac2f-8c99e2b1dcda" />
