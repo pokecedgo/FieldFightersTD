@@ -5,6 +5,9 @@ Hey! This summer I wanted to tackle myself on creating a tower defense game in t
 
 (After fully polishing the game I will be releasing the entire game as a resource other developers can use for everything is easily customizable from what enemies spawn in what waves, what rewards player gets, to even creating new units and heroes is a simple drag and drop inside a folder and everything will work, no need for adjustments in various code!) 
 
+**Game Assets**
+All 3D models, UI designs, icons, model animations, etc. were fully custom made myself.
+
 
 **Project Demo Video**
 https://www.youtube.com/watch?v=qzauoAm6GCM
